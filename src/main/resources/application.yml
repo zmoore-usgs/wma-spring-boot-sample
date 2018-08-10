@@ -3,8 +3,6 @@ spring:
     active: default
 
 security:
-  basic:
-    enabled: false
   require-ssl: true
 
 server:
